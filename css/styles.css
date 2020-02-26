@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+}
+
+.row{
+    border: 25px outset goldenrod;
+    height: 500px;
+    text-align: center;
+}
+
+.col-md-12 h1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.col-md-12 h3{
+    text-align: center;
+    padding: 80px;
+}
